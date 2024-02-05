@@ -63,3 +63,8 @@ The identified stakeholder is the product development team.
 The project concludes with actionable insights for the product development team, aiming to guide strategic decisions, prioritize enhancements, and optimize product offerings based on customer preferences and market dynamics.
 
 Explore the interactive Tableau dashboard [here](https://public.tableau.com/views/AWSSaaSSales/MedianSales?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
+
+---
+
+SaaS-Sales.csv is the original dataset from https://www.kaggle.com/datasets/nnthanh101/aws-saas-sales
+SaaS-Sales After Code.xlsx and Top 3 Products Across Industry are datasets for Tableau
